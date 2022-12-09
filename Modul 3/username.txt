@@ -1,0 +1,1 @@
+[{'akun': 'Dandy', 'user': 'pion', 'password': 'user123', 'history': []}, {'akun': 'rama', 'user': 'pokeyil', 'password': 'pokeyil123', 'history': ['buaya', 'buaya']}]
